@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\memme\\Desktop\\CodeAcademyTask\\menuTask\\ConsoleApp7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{793A7202-EA30-40B1-A4D3-E4DC986A8D03}|..\\Core\\Core.csproj|c:\\users\\memme\\desktop\\codeacademytask\\menutask\\core\\services\\concrets\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793A7202-EA30-40B1-A4D3-E4DC986A8D03}|..\\Core\\Core.csproj|c:\\users\\memme\\desktop\\codeacademytask\\menutask\\core\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251C20AF-3478-46B2-A653-F1D40A8C0FEE}|ConsoleApp7.csproj|C:\\Users\\memme\\Desktop\\CodeAcademyTask\\menuTask\\ConsoleApp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251C20AF-3478-46B2-A653-F1D40A8C0FEE}|ConsoleApp7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793A7202-EA30-40B1-A4D3-E4DC986A8D03}|..\\Core\\Core.csproj|c:\\users\\memme\\desktop\\codeacademytask\\menutask\\core\\enums\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793A7202-EA30-40B1-A4D3-E4DC986A8D03}|..\\Core\\Core.csproj|c:\\users\\memme\\desktop\\codeacademytask\\menutask\\core\\services\\concrets\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793A7202-EA30-40B1-A4D3-E4DC986A8D03}|..\\Core\\Core.csproj|c:\\users\\memme\\desktop\\codeacademytask\\menutask\\core\\enums\\bookmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793A7202-EA30-40B1-A4D3-E4DC986A8D03}|..\\Core\\Core.csproj|c:\\users\\memme\\desktop\\codeacademytask\\menutask\\core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793A7202-EA30-40B1-A4D3-E4DC986A8D03}|..\\Core\\Core.csproj|c:\\users\\memme\\desktop\\codeacademytask\\menutask\\core\\dataaccesslayer\\appdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookMenu.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\Desktop\\CodeAcademyTask\\menuTask\\Core\\Enums\\BookMenu.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Enums\\BookMenu.cs",
+              "ToolTip": "C:\\Users\\memme\\Desktop\\CodeAcademyTask\\menuTask\\Core\\Enums\\BookMenu.cs",
+              "RelativeToolTip": "..\\Core\\Enums\\BookMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T02:06:19.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\Desktop\\CodeAcademyTask\\menuTask\\Core\\Enums\\Menu.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Enums\\Menu.cs",
+              "ToolTip": "C:\\Users\\memme\\Desktop\\CodeAcademyTask\\menuTask\\Core\\Enums\\Menu.cs",
+              "RelativeToolTip": "..\\Core\\Enums\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T02:05:46.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\Desktop\\CodeAcademyTask\\menuTask\\Core\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\memme\\Desktop\\CodeAcademyTask\\menuTask\\Core\\Models\\Book.cs",
+              "RelativeToolTip": "..\\Core\\Models\\Book.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwB4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T01:43:58.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\Desktop\\CodeAcademyTask\\menuTask\\Core\\Services\\Concrets\\BookService.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Services\\Concrets\\BookService.cs",
+              "ToolTip": "C:\\Users\\memme\\Desktop\\CodeAcademyTask\\menuTask\\Core\\Services\\Concrets\\BookService.cs",
+              "RelativeToolTip": "..\\Core\\Services\\Concrets\\BookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T01:42:34.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\Desktop\\CodeAcademyTask\\menuTask\\Core\\Services\\Concrets\\LibraryService.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Services\\Concrets\\LibraryService.cs",
+              "ToolTip": "C:\\Users\\memme\\Desktop\\CodeAcademyTask\\menuTask\\Core\\Services\\Concrets\\LibraryService.cs",
+              "RelativeToolTip": "..\\Core\\Services\\Concrets\\LibraryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T01:42:19.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\Desktop\\CodeAcademyTask\\menuTask\\Core\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\memme\\Desktop\\CodeAcademyTask\\menuTask\\Core\\Models\\Library.cs",
+              "RelativeToolTip": "..\\Core\\Models\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T01:35:28.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDb.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\Desktop\\CodeAcademyTask\\menuTask\\Core\\DataAccessLayer\\AppDb.cs",
+              "RelativeDocumentMoniker": "..\\Core\\DataAccessLayer\\AppDb.cs",
+              "ToolTip": "C:\\Users\\memme\\Desktop\\CodeAcademyTask\\menuTask\\Core\\DataAccessLayer\\AppDb.cs",
+              "RelativeToolTip": "..\\Core\\DataAccessLayer\\AppDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T01:37:08.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\Desktop\\CodeAcademyTask\\menuTask\\ConsoleApp7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\memme\\Desktop\\CodeAcademyTask\\menuTask\\ConsoleApp7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAqwH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:00:40.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
